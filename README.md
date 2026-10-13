@@ -166,7 +166,7 @@ A utility application for generating passwords with configurable options.
 
 | Metric | Live statistics |
 |:---|:---|
-| **Combined total (including GFG when CrackAlgo resolves it)** | [![Live Coding Stats](https://crackalgo.in/api/widget/stats?leetcode=SiddharthRai87&codeforces=Siddharthrai7&codechef=siddharth_rai7&gfg=raisk11112000&hackerrank=raisk11112000&github=Siddharthrai87)](https://crackalgo.in/) |
+| **Combined total )** | [![Live Coding Stats](https://crackalgo.in/api/widget/stats?leetcode=SiddharthRai87&codeforces=Siddharthrai7&codechef=siddharth_rai7&gfg=raisk11112000&hackerrank=raisk11112000&github=Siddharthrai87)](https://crackalgo.in/) |
 
 > The aggregate widget retrieves statistics from supported public profiles and refreshes periodically. Its total may count the same problem more than once if it was solved on multiple platforms.
 
