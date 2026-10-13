@@ -198,8 +198,8 @@ A utility application for generating passwords with configurable options.
 <!-- GITHUB_METRICS_START -->
 | Metric | All time | This year |
 |:---|---:|---:|
-| **Commits** | Updating after first workflow run | Updating after first workflow run |
-| **Lines added** | Updating after first workflow run | Updating after first workflow run |
+| **Commits** | 112 | 80 (2026) |
+| **Lines added** | 72,454 | 70,259 (2026) |
 <!-- GITHUB_METRICS_END -->
 
 <sub>Updated daily by GitHub Actions. Counts cover commits authored by this GitHub account on the default branches of its non-fork public repositories. Lines added are based on GitHub commit statistics and do not represent the current size of the codebase.</sub>
