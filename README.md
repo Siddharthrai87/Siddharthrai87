@@ -1,174 +1,260 @@
-# Hey, I'm Siddharth Rai 👋
+<!--
+  SIDDHARTH RAI | NEON CYBERPUNK PROFILE
+  Repository: Siddharthrai87/Siddharthrai87
+-->
 
-### Software Developer | Full-Stack Development | AI-Powered Tools
+<div align="center">
 
-🎓 Computer Science & Engineering student at **ABES Engineering College, Ghaziabad**, graduating in 2027.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:190061,60:7C3AED,100:00F5FF&height=240&section=header&text=SIDDHARTH%20RAI&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20TOOLS%20%7C%20PROBLEM%20SOLVING&descSize=15&descAlignY=56&animation=fadeIn" width="100%" alt="Neon cyberpunk header"/>
 
-I enjoy building practical software, exploring AI-powered developer tools, and solving challenging algorithmic problems. My goal is to write clean, maintainable code and build products that solve real-world problems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=console.log(%22Hello%2C+World!%22);Building+AI-powered+developer+tools;Solving+problems+with+C%2B%2B;Turning+ideas+into+working+software;Always+learning.+Always+building." alt="Animated introduction"/>
 
-- 🔭 Currently exploring full-stack development and AI-powered applications.
+  <br/>
+
+  <a href="https://github.com/Siddharthrai87"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-0A0A0A?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/SiddharthRai87/"><img src="https://img.shields.io/badge/LeetCode-395%20Solved-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/frontenddeveloper-sidrai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/></a>
+  <a href="mailto:raisk11112000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0A0A0A?style=for-the-badge&logo=gmail&logoColor=BC13FE" alt="Email"/></a>
+
+  <br/><br/>
+
+  <samp>⚡ BUILD • DEBUG • LEARN • REPEAT ⚡</samp>
+
+</div>
+
+---
+
+## `01 // SYSTEM PROFILE`
+
+```text
+USER        : Siddharth Rai
+ROLE        : Aspiring Software Engineer
+EDUCATION   : B.Tech — Computer Science & Engineering
+INSTITUTE   : ABES Engineering College, Ghaziabad
+GRADUATION  : 2027
+FOCUS       : Software Development | AI Tools | DSA
+ACHIEVEMENT : GATE CSE 2026 Qualified — AIR 4817
+```
+
+Hey! I'm **Siddharth Rai**, a Computer Science undergraduate passionate about building practical software, exploring AI-powered developer tools, and solving algorithmic problems.
+
+I enjoy turning ideas into working applications and continuously improving my engineering skills through hands-on development.
+
+- 🔭 Exploring full-stack development and AI integrations.
 - ⚡ Creator of **NovaCLI**, an AI-powered command-line developer assistant.
-- 💻 Working with JavaScript, React, Next.js, Node.js, C++, and TypeScript.
-- 🧠 Solved **395 problems on LeetCode** as of September 2026.
-- 🏆 **GATE CSE 2026 Qualified | AIR 4817**
-- 🎯 Interested in software engineering roles, open-source projects, and developer collaboration.
+- 🌐 Building with React, Next.js, Node.js, JavaScript, and TypeScript.
+- 🧠 Practicing Data Structures & Algorithms using C++.
+- 🎓 Qualified **GATE CSE 2026 — AIR 4817**.
+- 🤝 Interested in software engineering opportunities and meaningful collaborations.
 
 ---
 
-## 🛠️ Tech Stack
+## `02 // TECH ARSENAL`
 
-### Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+  **PROGRAMMING LANGUAGES**
 
-### Frontend Development
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python&theme=dark" alt="C++, C, JavaScript, TypeScript and Python"/>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+  <br/><br/>
 
-### Backend, Runtime & AI Tools
+  **FRONTEND DEVELOPMENT**
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
-  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter"/>
-  <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge&logoColor=white" alt="Firecrawl"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS and Vite"/>
 
-### Tools & Platforms
+  <br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-</p>
+  **RUNTIME & DEVELOPER TOOLS**
 
-**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · REST APIs
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,git,github,vscode,npm,aws&theme=dark" alt="Node.js, Bun, Git, GitHub, VS Code, npm and AWS"/>
+
+</div>
+
+**Core Computer Science:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · REST APIs
+
+**AI & Web Tools:** OpenRouter · Firecrawl · Interactive CLI development
 
 ---
 
-## 🚀 Featured Projects
+## `03 // PROJECT LAB`
+
+<div align="center">
+
+  <a href="https://github.com/Siddharthrai87/NovaCLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharthrai87&repo=NovaCLI&theme=highcontrast&hide_border=true&title_color=00F5FF&icon_color=BC13FE" width="49%" alt="NovaCLI repository card"/>
+  </a>
+  <a href="https://github.com/Siddharthrai87/siddharthrai-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharthrai87&repo=siddharthrai-portfolio&theme=highcontrast&hide_border=true&title_color=00F5FF&icon_color=BC13FE" width="49%" alt="Portfolio repository card"/>
+  </a>
+
+</div>
 
 ### ⚡ NovaCLI — AI-Powered Developer Assistant
 
-An AI-powered command-line developer assistant that combines AI capabilities with web retrieval to support developer workflows.
+An AI-powered command-line tool that brings AI assistance and web retrieval into the developer workflow.
 
-- Built using TypeScript and the Bun runtime.
-- Integrated OpenRouter for AI model access.
-- Integrated Firecrawl for web retrieval.
-- Implemented interactive command-line prompts using `@clack/core`.
+- Built with TypeScript and the Bun runtime.
+- Uses OpenRouter for AI model access.
+- Integrates Firecrawl for web retrieval.
+- Uses `@clack/core` for interactive CLI prompts.
 - Published as an npm package.
 
-**Technologies:** TypeScript · Bun · OpenRouter · Firecrawl · npm
+`TypeScript` `Bun` `OpenRouter` `Firecrawl`
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Siddharthrai87/NovaCLI)
-[![npm](https://img.shields.io/badge/npm-View_Package-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@siddharth_rai87/novacli)
+<div align="center">
+
+  <a href="https://github.com/Siddharthrai87/NovaCLI"><img src="https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="View NovaCLI source"/></a>
+  <a href="https://www.npmjs.com/package/@siddharth_rai87/novacli"><img src="https://img.shields.io/badge/NPM_PACKAGE-BC13FE?style=for-the-badge&logo=npm&logoColor=white" alt="NovaCLI npm package"/></a>
+
+</div>
 
 ### 🌐 Personal Portfolio
 
-A personal portfolio website presenting my technical skills, projects, achievements, and professional journey.
+A personal website showcasing my technical skills, projects, achievements, and development journey.
 
-- Showcases my projects and development experience.
-- Organizes technical skills and professional information.
-- Serves as my online developer portfolio.
+`React` `JavaScript` `Tailwind CSS`
 
-**Technologies:** React · JavaScript · Tailwind CSS
-
-[![Portfolio Repository](https://img.shields.io/badge/GitHub-View_Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Siddharthrai87/siddharthrai-portfolio)
+[![Explore Portfolio](https://img.shields.io/badge/EXPLORE_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Siddharthrai87/siddharthrai-portfolio)
 
 ### 💰 Money Tracker
 
 A web application focused on tracking personal expenses and organizing financial records.
 
-**Technologies:** React · Tailwind CSS
+`React` `Tailwind CSS`
 
-[![Money Tracker](https://img.shields.io/badge/GitHub-Explore_Project-181717?style=for-the-badge&logo=github)](https://github.com/Siddharthrai87/Money-Tracker)
+[![Explore Money Tracker](https://img.shields.io/badge/EXPLORE_PROJECT-BC13FE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddharthrai87/Money-Tracker)
 
 ### 🔐 Password Generator
 
-A utility project for generating passwords, demonstrating frontend development and interactive application logic.
+A utility application for generating passwords with configurable options.
 
-[![Password Generator](https://img.shields.io/badge/GitHub-Explore_Project-181717?style=for-the-badge&logo=github)](https://github.com/Siddharthrai87/Password-Generator)
+[![Explore Password Generator](https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Siddharthrai87/Password-Generator)
 
 ---
 
-## 🧠 Competitive Programming
+## `04 // CODING NETWORK`
 
-I consistently practice Data Structures & Algorithms to improve problem-solving ability, algorithmic thinking, and coding efficiency.
+**My coding journey, connected.** Select a platform to explore my profile or visit its official website.
 
-| Platform | Username | Current Achievement |
+<div align="center">
+
+  <a href="https://leetcode.com/u/SiddharthRai87/"><img src="https://img.shields.io/badge/LeetCode-395%20Solved-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile"/></a>
+  <a href="https://www.codechef.com/users/siddharth_rai7"><img src="https://img.shields.io/badge/CodeChef-1553%20Rating-0A0A0A?style=for-the-badge&logo=codechef&logoColor=BC13FE" alt="CodeChef profile"/></a>
+  <a href="https://codeforces.com/profile/Siddharthrai7"><img src="https://img.shields.io/badge/Codeforces-915%20Rating-0A0A0A?style=for-the-badge&logo=codeforces&logoColor=00F5FF" alt="Codeforces profile"/></a>
+  <a href="https://codolio.com/profile/Siddharth_rai"><img src="https://img.shields.io/badge/Codolio-Coding%20Dashboard-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="Codolio profile"/></a>
+
+  <br/>
+
+  <a href="https://www.geeksforgeeks.org/profile/raisk11112000"><img src="https://img.shields.io/badge/GeeksforGeeks-MY%20PROFILE-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF88" alt="GeeksforGeeks profile"/></a>
+  <a href="https://takeuforward.org/profile/Siddharth_87"><img src="https://img.shields.io/badge/Take%20U%20Forward-MY%20PROFILE-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="Take U Forward profile"/></a>
+  <a href="https://www.hackerrank.com/profile/raisk11112000"><img src="https://img.shields.io/badge/HackerRank-MY%20PROFILE-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=00FF88" alt="HackerRank profile"/></a>
+
+  <br/>
+
+  <a href="https://atcoder.jp/"><img src="https://img.shields.io/badge/AtCoder-OFFICIAL%20PLATFORM-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="AtCoder official platform"/></a>
+  <a href="https://www.naukri.com/code360/profile"><img src="https://img.shields.io/badge/Code360-OFFICIAL%20PLATFORM-0A0A0A?style=for-the-badge&logoColor=BC13FE" alt="Code360 official platform"/></a>
+
+</div>
+
+### Competitive Programming Snapshot
+
+| Platform | Profile | Latest recorded progress |
 |:---|:---|:---|
-| LeetCode | Siddharth Rai | 395 problems solved |
-| CodeChef | `siddharth_rai7` | Rating: 1553 |
-| Codeforces | `Siddharthrai7` | Rating: 915 |
+| LeetCode | [SiddharthRai87](https://leetcode.com/u/SiddharthRai87/) | 395 solved · Contest rating 1725 |
+| CodeChef | [siddharth_rai7](https://www.codechef.com/users/siddharth_rai7) | Rating 1553 |
+| Codeforces | [Siddharthrai7](https://codeforces.com/profile/Siddharthrai7) | Rating 915 |
+| Codolio | [Siddharth_rai](https://codolio.com/profile/Siddharth_rai) | Aggregated coding profile |
+| GeeksforGeeks | [raisk11112000](https://www.geeksforgeeks.org/profile/raisk11112000) | DSA practice |
+| Take U Forward | [Siddharth_87](https://takeuforward.org/profile/Siddharth_87) | DSA learning |
+| HackerRank | [raisk11112000](https://www.hackerrank.com/profile/raisk11112000) | Coding practice |
+| AtCoder | [Official platform](https://atcoder.jp/) | Personal profile not provided |
+| Coding Ninjas / Code360 | [Official Code360](https://www.naukri.com/code360/profile) | Personal profile not provided |
+| CodeStudio | [Code360 platform](https://www.naukri.com/code360/profile) | Legacy platform; separate profile not provided |
 
-<p>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/users/siddharth_rai7"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://codeforces.com/profile/Siddharthrai7"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-</p>
-
-*Ratings and problem counts reflect my September 2026 progress and may change over time.*
-
----
-
-## 🏆 Achievements
-
-- 🎓 Qualified **GATE CSE 2026** with All India Rank **4817**.
-- 💻 Solved **395 LeetCode problems**, including Easy, Medium, and Hard problems.
-- 🧩 Achieved a LeetCode contest rating of **1725**.
-- 🚀 Published **NovaCLI** as an npm package.
-- 👨‍💻 Built and maintained personal software projects using modern web technologies.
+<sub>Problem counts and ratings reflect my September 2026 progress and may change. Only LeetCode, CodeChef and Codeforces figures listed above are recorded metrics; other platform activity is not quantified here.</sub>
 
 ---
 
-## 📊 GitHub Analytics
+## `05 // ACHIEVEMENTS UNLOCKED`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siddharthrai87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Siddharth's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthrai87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Siddharthrai87&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+  <img src="https://img.shields.io/badge/GATE_CSE_2026-QUALIFIED-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="GATE CSE 2026 qualified"/>
+  <img src="https://img.shields.io/badge/ALL_INDIA_RANK-4817-0A0A0A?style=for-the-badge&logoColor=BC13FE" alt="GATE All India Rank 4817"/>
+  <img src="https://img.shields.io/badge/LEETCODE_RATING-1725-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode contest rating"/>
 
-### Contribution Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthrai87&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-I'm always interested in connecting with developers, learning from the community, collaborating on projects, and exploring software engineering opportunities.
-
-<p>
-  <a href="https://github.com/Siddharthrai87"><img src="https://img.shields.io/badge/GitHub-Siddharthrai87-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/frontenddeveloper-sidrai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+- 🎓 Qualified GATE CSE 2026 with **All India Rank 4817**.
+- 🧠 Solved **395 LeetCode problems**.
+- ⚔️ Achieved a **1725 LeetCode contest rating**.
+- 📦 Published NovaCLI as an npm package.
+- 💻 Built projects across web development and AI tooling.
 
 ---
 
-<p align="center">
-  <i>"Build consistently. Solve thoughtfully. Learn something new every day."</i>
-</p>
+## `06 // LIVE GITHUB DASHBOARD`
 
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
+<div align="center">
+
+  <a href="https://github.com/Siddharthrai87?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Siddharthrai87&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true&title_color=00F5FF&icon_color=BC13FE&text_color=E5E7EB&bg_color=0A0A0A&rank_icon=github" width="49%" alt="GitHub statistics"/>
+  </a>
+  <a href="https://github.com/Siddharthrai87?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthrai87&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&title_color=00F5FF&text_color=E5E7EB&bg_color=0A0A0A" width="49%" alt="Most-used languages"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Siddharthrai87&theme=highcontrast&hide_border=true&background=0A0A0A&ring=BC13FE&fire=00F5FF&currStreakLabel=00F5FF" width="75%" alt="GitHub contribution streak"/>
+
+  <br/><br/>
+
+  <a href="https://github.com/Siddharthrai87">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthrai87&bg_color=0A0A0A&color=00F5FF&line=BC13FE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub coding activity graph"/>
+  </a>
+
+</div>
+
+---
+
+## `07 // CONTRIBUTION SNAKE`
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddharthrai87/Siddharthrai87/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddharthrai87/Siddharthrai87/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Siddharthrai87/Siddharthrai87/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
+  </picture>
+
+</div>
+
+---
+
+## `08 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+  <a href="https://github.com/Siddharthrai87"><img src="https://img.shields.io/badge/GitHub-EXPLORE%20PROJECTS-0A0A0A?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/frontenddeveloper-sidrai/"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/SiddharthRai87/"><img src="https://img.shields.io/badge/LeetCode-SOLVE%20TOGETHER-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+  <a href="https://codolio.com/profile/Siddharth_rai"><img src="https://img.shields.io/badge/Codolio-CODING%20JOURNEY-0A0A0A?style=for-the-badge&logoColor=BC13FE" alt="Codolio"/></a>
+  <a href="mailto:raisk11112000@gmail.com"><img src="https://img.shields.io/badge/Email-LET'S%20TALK-0A0A0A?style=for-the-badge&logo=gmail&logoColor=BC13FE" alt="Email"/></a>
+
+  <br/><br/>
+
+  **Have an interesting idea? Let's build something useful together.**
+
+  <br/>
+
+  <samp>LEARN CONTINUOUSLY // BUILD MEANINGFULLY // STAY CURIOUS</samp>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:7C3AED,100:050816&height=120&section=footer" width="100%" alt="Neon footer"/>
+
+  <sub>Designed with 💜 and a lot of curiosity.</sub>
+
+</div>
