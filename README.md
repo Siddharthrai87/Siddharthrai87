@@ -133,48 +133,45 @@ A utility application for generating passwords with configurable options.
 
 ---
 
-## `04 // CODING NETWORK`
 
-**My coding journey, connected.** Select a platform to explore my profile or visit its official website.
+## `04 // CODING NETWORK`
 
 <div align="center">
 
-  <a href="https://leetcode.com/u/SiddharthRai87/"><img src="https://img.shields.io/badge/LeetCode-395%20Solved-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile"/></a>
-  <a href="https://www.codechef.com/users/siddharth_rai7"><img src="https://img.shields.io/badge/CodeChef-1553%20Rating-0A0A0A?style=for-the-badge&logo=codechef&logoColor=BC13FE" alt="CodeChef profile"/></a>
-  <a href="https://codeforces.com/profile/Siddharthrai7"><img src="https://img.shields.io/badge/Codeforces-915%20Rating-0A0A0A?style=for-the-badge&logo=codeforces&logoColor=00F5FF" alt="Codeforces profile"/></a>
-  <a href="https://codolio.com/profile/Siddharth_rai"><img src="https://img.shields.io/badge/Codolio-Coding%20Dashboard-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="Codolio profile"/></a>
-
-  <br/>
-
-  <a href="https://www.geeksforgeeks.org/profile/raisk11112000"><img src="https://img.shields.io/badge/GeeksforGeeks-MY%20PROFILE-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF88" alt="GeeksforGeeks profile"/></a>
-  <a href="https://takeuforward.org/profile/Siddharth_87"><img src="https://img.shields.io/badge/Take%20U%20Forward-MY%20PROFILE-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="Take U Forward profile"/></a>
-  <a href="https://www.hackerrank.com/profile/raisk11112000"><img src="https://img.shields.io/badge/HackerRank-MY%20PROFILE-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=00FF88" alt="HackerRank profile"/></a>
-
-  <br/>
-
-  <a href="https://atcoder.jp/"><img src="https://img.shields.io/badge/AtCoder-OFFICIAL%20PLATFORM-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="AtCoder official platform"/></a>
-  <a href="https://www.naukri.com/code360/profile"><img src="https://img.shields.io/badge/Code360-OFFICIAL%20PLATFORM-0A0A0A?style=for-the-badge&logoColor=BC13FE" alt="Code360 official platform"/></a>
+  <a href="https://leetcode.com/u/SiddharthRai87/">
+    <img src="https://img.shields.io/badge/LeetCode-My_Profile-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/siddharth_rai7">
+    <img src="https://img.shields.io/badge/CodeChef-My_Profile-0A0A0A?style=for-the-badge&logo=codechef&logoColor=BC13FE" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/Siddharthrai7">
+    <img src="https://img.shields.io/badge/Codeforces-My_Profile-0A0A0A?style=for-the-badge&logo=codeforces&logoColor=00F5FF" alt="Codeforces"/>
+  </a>
+  <a href="https://codolio.com/profile/Siddharth_rai">
+    <img src="https://img.shields.io/badge/Codolio-Coding_Dashboard-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="Codolio"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/raisk11112000">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-My_Profile-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF88" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://takeuforward.org/profile/Siddharth_87">
+    <img src="https://img.shields.io/badge/Take_U_Forward-My_Profile-0A0A0A?style=for-the-badge&logoColor=00F5FF" alt="Take U Forward"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/raisk11112000">
+    <img src="https://img.shields.io/badge/HackerRank-My_Profile-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=00FF88" alt="HackerRank"/>
+  </a>
 
 </div>
 
-### Competitive Programming Snapshot
+### Live Problem-Solving Statistics
 
-| Platform | Profile | Latest recorded progress |
-|:---|:---|:---|
-| LeetCode | [SiddharthRai87](https://leetcode.com/u/SiddharthRai87/) | 395 solved · Contest rating 1725 |
-| CodeChef | [siddharth_rai7](https://www.codechef.com/users/siddharth_rai7) | Rating 1553 |
-| Codeforces | [Siddharthrai7](https://codeforces.com/profile/Siddharthrai7) | Rating 915 |
-| Codolio | [Siddharth_rai](https://codolio.com/profile/Siddharth_rai) | Aggregated coding profile |
-| GeeksforGeeks | [raisk11112000](https://www.geeksforgeeks.org/profile/raisk11112000) | DSA practice |
-| Take U Forward | [Siddharth_87](https://takeuforward.org/profile/Siddharth_87) | DSA learning |
-| HackerRank | [raisk11112000](https://www.hackerrank.com/profile/raisk11112000) | Coding practice |
-| AtCoder | [Official platform](https://atcoder.jp/) | Personal profile not provided |
-| Coding Ninjas / Code360 | [Official Code360](https://www.naukri.com/code360/profile) | Personal profile not provided |
-| CodeStudio | [Code360 platform](https://www.naukri.com/code360/profile) | Legacy platform; separate profile not provided |
+| Metric | Live statistics |
+|:---|:---|
+| **Total problems solved** | [![Live Coding Stats](https://crackalgo.in/api/widget/stats?leetcode=SiddharthRai87&codeforces=Siddharthrai7&codechef=siddharth_rai7&gfg=raisk11112000&hackerrank=raisk11112000&github=Siddharthrai87)](https://crackalgo.in/) |
 
-<sub>Problem counts and ratings reflect my September 2026 progress and may change. Only LeetCode, CodeChef and Codeforces figures listed above are recorded metrics; other platform activity is not quantified here.</sub>
+> The aggregate widget retrieves statistics from supported public profiles and refreshes periodically. Its total may count the same problem more than once if it was solved on multiple platforms.
 
----
+**My coding philosophy:** Consistency over intensity. Solve, understand, optimize, repeat.
+
 
 ## `05 // ACHIEVEMENTS UNLOCKED`
 
