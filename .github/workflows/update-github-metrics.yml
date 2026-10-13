@@ -1,3 +1,4 @@
+
 name: Update GitHub Metrics
 
 on:
@@ -15,6 +16,7 @@ concurrency:
 jobs:
   update-metrics:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out profile repository
         uses: actions/checkout@v4
@@ -30,6 +32,7 @@ jobs:
       - name: Calculate public repository metrics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GITHUB_USERNAME: Siddharthrai87
         run: python scripts/update_github_metrics.py
 
