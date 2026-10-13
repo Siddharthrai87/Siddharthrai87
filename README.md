@@ -166,7 +166,7 @@ A utility application for generating passwords with configurable options.
 
 | Metric | Live statistics |
 |:---|:---|
-| **Total problems solved** | [![Live Coding Stats](https://crackalgo.in/api/widget/stats?leetcode=SiddharthRai87&codeforces=Siddharthrai7&codechef=siddharth_rai7&gfg=raisk11112000&hackerrank=raisk11112000&github=Siddharthrai87)](https://crackalgo.in/) |
+| **Combined total (including GFG when CrackAlgo resolves it)** | [![Live Coding Stats](https://crackalgo.in/api/widget/stats?leetcode=SiddharthRai87&codeforces=Siddharthrai7&codechef=siddharth_rai7&gfg=raisk11112000&hackerrank=raisk11112000&github=Siddharthrai87)](https://crackalgo.in/) |
 
 > The aggregate widget retrieves statistics from supported public profiles and refreshes periodically. Its total may count the same problem more than once if it was solved on multiple platforms.
 
@@ -192,6 +192,19 @@ A utility application for generating passwords with configurable options.
 ---
 
 ## `06 // LIVE GITHUB DASHBOARD`
+
+### 📊 Public GitHub Engineering Metrics
+
+<!-- GITHUB_METRICS_START -->
+| Metric | All time | This year |
+|:---|---:|---:|
+| **Commits** | Updating after first workflow run | Updating after first workflow run |
+| **Lines added** | Updating after first workflow run | Updating after first workflow run |
+<!-- GITHUB_METRICS_END -->
+
+<sub>Updated daily by GitHub Actions. Counts cover commits authored by this GitHub account on the default branches of its non-fork public repositories. Lines added are based on GitHub commit statistics and do not represent the current size of the codebase.</sub>
+
+
 
 <div align="center">
 
